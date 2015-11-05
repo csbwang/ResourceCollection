@@ -1,5 +1,9 @@
 # Deep Learning
 
+###机器学习&深度学习资料合集
+[篇目一](https://github.com/ty4z2008/Qix/blob/master/dl.md)
+[篇目二](https://github.com/ty4z2008/Qix/blob/master/dl2.md)
+
 ###神经网络资源列表
 [地址](https://porter.io/github.com/robertsdionne/neural-network-papers)
 
