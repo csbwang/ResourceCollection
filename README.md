@@ -1,2 +1,9 @@
-# 资源整理
-大部分资料来自面神整理，感谢 [zzzvvvxxxd](https://github.com/zzzvvvxxxd)
+## 各路资源整理
+### [深度学习资源](https://github.com/csbwang/ResourceCollection/blob/master/DL.md)
+### [机器学习资源](https://github.com/csbwang/ResourceCollection/blob/master/ML.md)
+### [自然语言处理资源](https://github.com/csbwang/ResourceCollection/blob/master/NLP.md)
+### [Java资源](https://github.com/csbwang/ResourceCollection/blob/master/Java.md)
+### [Python资源](https://github.com/csbwang/ResourceCollection/blob/master/python.md)
+### [前端资源](https://github.com/csbwang/ResourceCollection/blob/master/FontEnd.md)
+### [伯乐在线资源](https://github.com/jobbole)
+### [google代码规范](https://github.com/csbwang/ResourceCollection/blob/master/google_styleguide_zh.md)
