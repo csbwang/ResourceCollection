@@ -27,3 +27,15 @@
 - [Java IO：常见Java IO流介绍（ByteArrayInputStream，ObjectInputStream，BufferedInputStream）](https://github.com/pzxwhc/MineKnowContainer/issues/23)
 
 以上资源收集自[pzxwhc/MineKnowContainer](https://github.com/pzxwhc/MineKnowContainer)
+
+### Java成神之路
+- [《成神之路-基础篇》JVM——Java内存相关](http://www.hollischuang.com/archives/1003)
+- [《成神之路-基础篇》JVM——常用Java命令](http://www.hollischuang.com/archives/1034)
+- [《成神之路-基础篇》Java基础知识——阅读源代码](http://www.hollischuang.com/archives/1007)
+- [《成神之路-基础篇》Java基础知识——String相关](http://www.hollischuang.com/archives/1330)
+- [《成神之路-基础篇》Java基础知识——Java中各种关键字](http://www.hollischuang.com/archives/1327)
+- [《成神之路-基础篇》Java基础知识——反射](http://www.hollischuang.com/archives/1163)
+- [《成神之路-基础篇》Java基础知识——序列化](http://www.hollischuang.com/archives/1158)
+- [《成神之路-基础篇》Java基础知识——JMS](http://www.hollischuang.com/archives/1226)
+- [《成神之路-基础篇》Java基础知识——泛型](http://www.hollischuang.com/archives/1182)
+以上资源收集自[Hollis的《成神之路系列文章》](http://www.hollischuang.com/archives/1003)
