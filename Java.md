@@ -40,5 +40,5 @@
 - [《成神之路-基础篇》Java基础知识——序列化](http://www.hollischuang.com/archives/1158)
 - [《成神之路-基础篇》Java基础知识——JMS](http://www.hollischuang.com/archives/1226)
 - [《成神之路-基础篇》Java基础知识——泛型](http://www.hollischuang.com/archives/1182)
-- 
+
 以上资源收集自[Hollis的《成神之路系列文章》](http://www.hollischuang.com/archives/1003)
